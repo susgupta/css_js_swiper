@@ -1,0 +1,3 @@
+$(function () {
+    $('#dg-container').gallery();
+});
